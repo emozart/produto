@@ -1,0 +1,68 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão em pó",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Detengente",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha recheada",
+      "categoria": 2
+    },
+    {
+      "id": 4,
+      "produto": "Arroz",
+      "categoria": 2
+    },
+    {
+      "id": 5,
+      "produto": "Feijão",
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "produto": "Cerveja",
+      "categoria": 3
+    },
+    {
+      "id": 7,
+      "produto": "Pão (50g)",
+      "categoria": 4
+    },
+    {
+      "id": 8,
+      "produto": "Queijo Mussarela",
+      "categoria": 4
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 4,
+      "categoria": "Padaria"
+    },
+    {
+      "categoria": {
+        "categoria": "teste"
+      },
+      "id": 5
+    }
+  ]
+}
